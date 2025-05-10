@@ -5,4 +5,10 @@ let dados = [ //criamos uam variavel que irá armzenar todos os dados
         link: "",
         tags:""
     },
+    {
+        titulo: "",
+        descricao: "",
+        link: "",
+        tags: ""
+    },
 ]
